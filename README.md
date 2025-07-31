@@ -65,7 +65,7 @@ Feel free to check out more of my projects!
 
 ## 🔗 Let's Connect
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- GitHub: [github.com/your-username](https://github.com/codexahsan)
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/codexahsan)
 
 ---
